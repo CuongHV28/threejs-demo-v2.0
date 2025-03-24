@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modular office building assets (Post Apoc)
+* source:	https://sketchfab.com/3d-models/modular-office-building-assets-post-apoc-9bb7ab3024264325a579ff5058ad4293
+* author:	Jordi Kruk (https://sketchfab.com/JordiKruk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modular office building assets (Post Apoc)" (https://sketchfab.com/3d-models/modular-office-building-assets-post-apoc-9bb7ab3024264325a579ff5058ad4293) by Jordi Kruk (https://sketchfab.com/JordiKruk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
